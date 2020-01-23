@@ -1,0 +1,29 @@
+C:\Users\Gurpreet Singh\source\repos\Lab3 - Kids Calculator\Lab3 - Kids Calculator\bin\Debug\Lab3 - Kids Calculator.exe.config
+C:\Users\Gurpreet Singh\source\repos\Lab3 - Kids Calculator\Lab3 - Kids Calculator\bin\Debug\Lab3 - Kids Calculator.exe
+C:\Users\Gurpreet Singh\source\repos\Lab3 - Kids Calculator\Lab3 - Kids Calculator\bin\Debug\Lab3 - Kids Calculator.pdb
+C:\Users\Gurpreet Singh\source\repos\Lab3 - Kids Calculator\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.csprojAssemblyReference.cache
+C:\Users\Gurpreet Singh\source\repos\Lab3 - Kids Calculator\Lab3 - Kids Calculator\obj\Debug\Lab3___Kids_Calculator.Form1.resources
+C:\Users\Gurpreet Singh\source\repos\Lab3 - Kids Calculator\Lab3 - Kids Calculator\obj\Debug\Lab3___Kids_Calculator.Properties.Resources.resources
+C:\Users\Gurpreet Singh\source\repos\Lab3 - Kids Calculator\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.csproj.GenerateResource.cache
+C:\Users\Gurpreet Singh\source\repos\Lab3 - Kids Calculator\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.exe
+C:\Users\Gurpreet Singh\source\repos\Lab3 - Kids Calculator\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.pdb
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master\Lab3 - Kids Calculator\bin\Debug\Lab3 - Kids Calculator.exe.config
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master\Lab3 - Kids Calculator\bin\Debug\Lab3 - Kids Calculator.exe
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master\Lab3 - Kids Calculator\bin\Debug\Lab3 - Kids Calculator.pdb
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.csprojAssemblyReference.cache
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master\Lab3 - Kids Calculator\obj\Debug\Lab3___Kids_Calculator.Form1.resources
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master\Lab3 - Kids Calculator\obj\Debug\Lab3___Kids_Calculator.Properties.Resources.resources
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.csproj.GenerateResource.cache
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.csproj.CoreCompileInputs.cache
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.exe
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.pdb
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master - Copy\Lab3 - Kids Calculator\bin\Debug\Lab-3.exe.config
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master - Copy\Lab3 - Kids Calculator\bin\Debug\Lab-3.exe
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master - Copy\Lab3 - Kids Calculator\bin\Debug\Lab-3.pdb
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master - Copy\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.csprojAssemblyReference.cache
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master - Copy\Lab3 - Kids Calculator\obj\Debug\Lab3___Kids_Calculator.Form1.resources
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master - Copy\Lab3 - Kids Calculator\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master - Copy\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.csproj.GenerateResource.cache
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master - Copy\Lab3 - Kids Calculator\obj\Debug\Lab3 - Kids Calculator.csproj.CoreCompileInputs.cache
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master - Copy\Lab3 - Kids Calculator\obj\Debug\Lab-3.exe
+C:\Users\arshd\OneDrive\Desktop\Lab3-Kids-Calculator-master - Copy\Lab3 - Kids Calculator\obj\Debug\Lab-3.pdb
